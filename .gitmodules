@@ -1,3 +1,3 @@
-[submodule "GaSPar/3.Implementacao/--force"]
-	path = GaSPar/3.Implementacao/--force
+[submodule "GaSPar/3.Implementacao/Code"]
+	path = GaSPar/3.Implementacao/Code
 	url = https://github.com/splistcs/GaSPar-Code
