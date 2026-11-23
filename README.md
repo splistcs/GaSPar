@@ -19,6 +19,8 @@ falhas no modelo atual.
 ## 3. Referências
 Repositórios:
 
+- [[GaSPar-Code](https://github.com/splistcs/GaSPar-Code)]
+
 
 ## 4. Mapeamento do Repositório
 
